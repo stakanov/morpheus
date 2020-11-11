@@ -1,0 +1,14 @@
+{
+  "appId": "com.stakanov.morpheus",
+  "appName": "Morpheus",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {},
+  "linuxAndroidStudioPath": "/usr/bin/android-studio"
+}
